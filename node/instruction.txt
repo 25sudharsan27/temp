@@ -1,4 +1,6 @@
 THIS IS AWESOME : 
+        THIS IS AWESOME : 
+        THIS IS AWESOME : 
         THIS IS AWESOME :
          npm - global command, comes with node
 
@@ -19,4 +21,4 @@ npm init (step by step, press enter to skip)
 npm init -y (everything default)
 
 
- Here is the result : Hello this is sample test text file, this is second text file  Here is the result : Hello this is sample test text file, this is second text file }
+ Here is the result : Hello this is sample test text file, this is second text file  Here is the result : Hello this is sample test text file, this is second text file } Here is the result : Hello this is sample test text file, this is second text file } Here is the result : Hello this is sample test text file, this is second text file }
